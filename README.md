@@ -48,7 +48,7 @@ Users access the platform via web or mobile applications through a domain name.
 
 ## 🛠️ Technologies Used
 - AWS (EC2, S3, RDS, DynamoDB, CloudFront, Route 53, WAF)
-- Cloud Architecture Design
+- Cloud Architecture Design(Lucid chart)
 
 ---
 
