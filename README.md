@@ -54,7 +54,8 @@ Users access the platform via web or mobile applications through a domain name.
 
 ## 📄 Project Document
 See full documentation here:  
-()
+([Full document]GOODNESS_ADEPOJU  AWS SAA CAPSTONE PROJECT.docx
+[architecture diagram]IMG_20260411_004349.jpg)
 
 ---
 
